@@ -324,6 +324,108 @@
 
 <br>
 
+## 💰 خطط الأسعار — عرض الإطلاق (محدود جداً!)
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45" />
+
+  ### 🔥 العدد محدود جداً: أقصى عدد للجروب 20 شخص فقط!
+  <p><small>لأن المعسكر <b>لايف 100%</b> ولازم أقدر أرد على أسئلتك، أشوف مشاكل الأكواد بتاعتك، وأتابع معاك شخصياً.<br/>عدد أكثر من كده = جودة أقل، وده مش هيحصل معانا. <b>النوعية فوق الكمية دائماً.</b></small></p>
+
+  <br/>
+
+</div>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" style="padding: 15px; vertical-align: top;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40" />
+      <h3>⭐ الباقة الأساسية (Standard)</h3>
+      <small>السعر الأصلي</small><br/>
+      <b><s>4,500 جنيه مصري</s></b><br/><br/>
+      <small>🎁 سعر عرض الإطلاق</small><br/>
+      <h2>2,200 جنيه مصري</h2>
+      <small><b>≈ 45 دولار أمريكي</b> (للعرب خارج مصر)</small>
+      <br/><br/>
+      <hr/>
+      <br/>
+      <p align="right">
+        ✅ 8 حصص لايف مكثفة (+40 ساعة عملي)<br/>
+        ✅ بناء 4 مشاريع كاملة من الصفر<br/>
+        ✅ تعلم أدوات الـ AI (Cursor / ChatGPT)<br/>
+        ✅ توثيق احترافي على GitHub لكل مشروع<br/>
+        ✅ دعم عبر واتساب أثناء فترة المعسكر<br/>
+        ✅ شهادة إتمام المعسكر<br/>
+      </p>
+      <br/>
+      <a href="https://wa.me/201026097345?text=%D8%A3%D9%87%D9%84%D8%A7%D9%8B%20%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D8%B2%D9%8A%D8%A7%D8%AF%D8%8C%20%D8%B9%D8%A7%D9%8A%D8%B2%20%D8%A3%D8%AD%D8%AC%D8%B2%20%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9%20%D9%81%D9%8A%20%D9%85%D8%B9%D8%B3%D9%83%D8%B1%20%D8%A7%D9%84%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3">
+        <img src="https://img.shields.io/badge/%D8%A7%D8%AD%D8%AC%D8%B2_%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="padding: 15px; vertical-align: top; background-color: #fffbeb;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="40" />
+      <h3>👑 باقة VIP (متابعة يومية شخصية)</h3>
+      <small>للناس اللي عاوزة الدلع والمتابعة الكاملة 🔥</small><br/><br/>
+      <h2>5,000 جنيه مصري</h2>
+      <small><b>≈ 120 دولار أمريكي</b> (للعرب خارج مصر)</small>
+      <br/><br/>
+      <hr/>
+      <br/>
+      <p align="right">
+        ✅ <b>كل مميزات الباقة الأساسية بالكامل</b><br/>
+        ➕ 👨‍🏫 <b>مراجعة شخصية (1-on-1 Review)</b> لبروفايل GitHub بتاعك بعد الكورس — نص ساعة كاملة وجهاً لوجه<br/>
+        ➕ 💬 <b>دعم فني خاص على واتساب لمدة شهر كامل</b> بعد انتهاء المعسكر — أي مشكلة تقنية تواجهك أنا موجود<br/>
+        ➕ 📦 <b>مكتبة الأكواد الجاهزة (Custom Snippets)</b> — كل الـ Code Snippets اللي استخدمناها في المعسكر في ملف منظم<br/>
+        ➕ 🤖 <b>ملف البرومبتات السرية (AI Prompts)</b> — كل الـ Prompts اللي استخدمتها مع Cursor و ChatGPT جاهزة للاستخدام الفوري<br/>
+        ➕ 🎯 <b>متابعة يومية شخصية</b> طوال فترة المعسكر — أتابع تقدمك يوم بيوم وأوجهك<br/>
+      </p>
+      <br/>
+      <a href="https://wa.me/201026097345?text=%D8%A3%D9%87%D9%84%D8%A7%D9%8B%20%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0%20%D8%B2%D9%8A%D8%A7%D8%AF%D8%8C%20%D8%B9%D8%A7%D9%8A%D8%B2%20%D8%A3%D8%AD%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%82%D8%A9%20VIP%20%D9%81%D9%8A%20%D9%85%D8%B9%D8%B3%D9%83%D8%B1%20%D8%A7%D9%84%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3">
+        <img src="https://img.shields.io/badge/%F0%9F%91%91_%D8%A7%D8%AD%D8%AC%D8%B2_%D8%A8%D8%A7%D9%82%D8%A9_VIP_%D8%A7%D9%84%D8%A2%D9%86-FF6F00?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+  > ⚡ **لا تفكر كثيراً!** أنت تستثمر في مقابل مهارة تدر عليك **من 300$ إلى 5,000$** لكل مشروع واحد فقط.
+  > هذا يعني أن **أول عميل واحد** بعد التخرج سيُعيد لك **أضعاف استثمارك** مهما كانت الباقة اللي اخترتها!
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40" />
+
+  ### 🛡️ ضمان استرجاع الفلوس بالكامل (Money-Back Guarantee)
+
+  <table align="center" width="80%">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <p style="font-size: 1.1rem; line-height: 1.9;">
+          <b>أنا واثق 100% من جودة المحتوى.</b><br/>
+          لو حضرت <b>أول حصتين (أكتر من 10 ساعات تدريب!)</b> وحسيت إنك مش بتستفاد أو المعسكر مش مناسبلك — <b>فلوسك هترجعلك بالكامل</b> بدون أي أسئلة! ✋<br/><br/>
+          <small>⚡ ده معناه إنك بتجرب <b>+10 ساعات من التدريب العملي مجاناً تماماً</b> قبل ما تاخد قرارك النهائي.<br/>
+          الخطر الوحيد هو إنك <b>ما تسجلش</b> وتضيّع الفرصة دي! 🔥</small>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <small>⚠️ <b>تنبيه مهم:</b> الأماكن محدودة بـ <b>20 شخص فقط</b> كحد أقصى للجروب. العرض متاح لأول <b>15 مشترك</b> أو لمدة <b>3 أيام</b> من تاريخ الإعلان — أيهما أقرب. بعدها يعود السعر للأصلي.</small>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
 ## 💡 فلسفة المعسكر
 
 <table width="100%" align="center">
